@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir: false
 # googleAnalytics: UA-123-45
 
 markup:
-  # Do not modify markup.highlight
+  # Do not modify markup.highlight 
   highlight:
     codeFences: false
     noClasses: false
