@@ -6,7 +6,7 @@ theme: "hugo-eureka"
 # Uncomment when installing using Hugo Modules
 # theme: github.com/wangchucheng/hugo-eureka
 
-paginate: 3
+paginate: 3 
 copyright: >
   &copy; 2021 <a href="https://www.wangchucheng.com/">Mark Nieman</a> <a
   href="https://www.ruiqima.com/"> </a>
