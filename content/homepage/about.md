@@ -18,7 +18,7 @@ social:
     iconPack: fab
     url: https://github.com/mdnieman
 
-weight: 1
+weight: 1 
 widget:
   handler: about
 
