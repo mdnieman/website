@@ -11,7 +11,7 @@ title: Research
 toc: true
 ---
 
-Below you can access my NSF grant project, book, articles, and working papers.
+Below you can find information about my NSF grant project, book, and peer-reviewed articles.
 
 ## *National Science Foundation* Grant Project
 

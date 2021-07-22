@@ -5,6 +5,6 @@ main:
   - name: Research
     url: /research/
     weight: 2
-  - name: Docs
-    url: /docs/
+  - name: Teaching
+    url: /teaching/
     weight: 3
