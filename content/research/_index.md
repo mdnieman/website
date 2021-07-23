@@ -26,7 +26,7 @@ Thies, Cameron G. and Mark David Nieman. 2017. *<a href="https://www.press.umich
 Nieman, Mark David and Douglas G. Gibler. <a href="../materials/NeighborhoodsDemDiffs.pdf" target=_blank>Peaceful Neighborhoods and Democratic Differences</a>. *The Journal of Politics*. Accepted.
 - <a href="../materials/JOP_demdiff_appendix.pdf" target=_blank>Online Appendix</a>
 
-Nieman, Mark David, Carla Martinez Machain, Olga V. Chyzh, and Sam Bell. 2021. <a href="../materials/International Game of Risk.pdf" target=_blank>An International Game of Risk: Troop Placement and Major Power Competition</a>. *The Journal of Politics*. 83(4): October doi.org/10.1086/711716.
+Nieman, Mark David, Carla Martinez Machain, Olga V. Chyzh, and Sam R. Bell. 2021. <a href="../materials/International Game of Risk.pdf" target=_blank>An International Game of Risk: Troop Placement and Major Power Competition</a>. *The Journal of Politics*. 83(4): October doi.org/10.1086/711716.
 - <a href="../materials/International Game of Risk - appendix.pdf" target=_blank>Online Appendix</a> 
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5AFKDK">Replication Materials</a>
 
