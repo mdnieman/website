@@ -15,10 +15,6 @@ Below you can find my current working papers. Many of these have been presented 
 
 ## Working Papers
 
-<a href="../materials/Schools of Thought.pdf" target=_blank>Schools of Thought: Leader Education and Policy Outcomes</a> (with Max Allamong) 
-
-<a href="../materials/ChyzhNieman2021_wAppendices.pdf" target=_blank>How to Stop Contagion: Applying Network Science to Evaluate the Effectiveness of Covid-19 Vaccine Distribution Plans</a> (with Olga Chyzh)
-
 <a href="../materials/CNW-DougWhistlePolitics.pdf" target=_blank>The Effects of Dog-Whistle Politics on Political Violence</a> (with Olga Chyzh and Clay Webb)
 
 <a href="../materials/Climate Change and Electoral Outcomes.pdf" target=_blank>A Watershed Moment: Climate Change and Election Outcomes</a>
@@ -27,7 +23,7 @@ Below you can find my current working papers. Many of these have been presented 
 
 <a href="../materials/Structural_Selection.pdf" target=_blank>Modeling Structural Selection in Disaggregated Event Data</a> (with Olga Chyzh and Doug Gibler)
 
-<a href="../materials/Russian_Media_NL.pdf" target=_blank>State-controlled Media and Foreign Policy: Analyzing Russian-language News</a> (with Elena Labzina)
+<a href="../materials/Russian_Media.pdf" target=_blank>State-controlled Media and Foreign Policy: Analyzing Russian-language News</a> (with Elena Labzina)
 
 <a href="../materials/IGO_discontinuity.pdf" target=_blank>Leaving the Party: Power Asymmetries and Membership Discontinuity within International Organizations</a> (with Youngwan Kim)
 
