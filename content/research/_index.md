@@ -26,11 +26,15 @@ Thies, Cameron G. and Mark David Nieman. 2017. *<a href="https://www.press.umich
 Nieman, Mark David and Maxwell B. Allamong. <a href="../materials/Schools of Thought.pdf" target=_blank>Schools of Thought: Leader Education and Policy Outcomes</a>. *The Journal of Politics*. https://doi.org/10.1086/724959.
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MOAKFJ">Replication Materials</a> 
 
+<<<<<<< HEAD
 Nieman, Mark David and Douglas G. Gibler. <a href="../materials/Peaceful Neighborhoods.pdf" target=_blank>Peaceful Neighborhoods and Democratic Differences</a>. *The Journal of Politics*. 85(1): 92--106.
 - <a href="../materials/Peaceful Neighborhoods - Appendix.pdf" target=_blank>Online Appendix</a>
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DNH9XV">Replication Materials</a>
 
 Nieman, Mark David, Carla Martinez Machain, Olga V. Chyzh, and Sam R. Bell. 2021. <a href="../materials/International Game of Risk.pdf" target=_blank>An International Game of Risk: Troop Placement and Major Power Competition</a>. *The Journal of Politics*. 83(4): 1307--1321.
+=======
+Nieman, Mark David, Carla Martinez Machain, Olga V. Chyzh, and Sam Bell. 2021. <a href="../materials/International Game of Risk.pdf" target=_blank>An International Game of Risk: Troop Placement and Major Power Competition</a>. *The Journal of Politics*. 83(4): October doi.org/10.1086/711716.
+>>>>>>> parent of 70457f1 (Minor edit to research)
 - <a href="../materials/International Game of Risk - appendix.pdf" target=_blank>Online Appendix</a> 
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5AFKDK">Replication Materials</a>
 

@@ -3,7 +3,7 @@ title: Mark David Nieman
 draft: false
 role: Assistant Professor
 avatar: images/Mark_website.jpg
-
+bio: I hold a joint appointment with the [Department of Political Science](https://politics.utoronto.ca/) and [Trinity College](https://www.trinity.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/). I am also affiliated with the [Data Sciences Institute](https://datasciences.utoronto.ca/).
 organization:
   name: University of Toronto
   url: https://example.com/
@@ -49,5 +49,5 @@ My academic interests are in international relations and political methodology. 
 
 My research has been supported by the *National Science Foundation*, and been published in *The Journal of Politics*, *Political Analysis*, *Journal of Peace Research*, and *Statistica Sinica*, among others. My first book (co-authored with Cameron Thies), *Rising Powers and Foreign Policy Revisionism: Understanding BRICS Identity and Behavior through Time*, is available from [University of Michigan Press](https://www.press.umich.edu/9449686/rising_powers_and_foreign_policy_revisionism).  
 
-I earned my Ph.D. from the University of Iowa, and my B.A. and M.A. from Iowa State University. I previously held positions at Iowa State University, the University of Alabama, the University of Missouri, and was the James A Socknat Fellow at The World Bank. My CV is available <a href="../materials/Nieman_CV_20230329.pdf" target=_blank>here</a> or on the CV page.
+I earned my Ph.D. from the University of Iowa, and my B.A. and M.A. from Iowa State University. I previously held positions at Iowa State University, the University of Alabama, the University of Missouri, and was the James A Socknat Fellow at The World Bank. My CV is available <a href="../materials/Nieman_CV_20230329.pdf" target=_blank>here</a>.
 
