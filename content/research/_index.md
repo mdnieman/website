@@ -31,8 +31,6 @@ Nieman, Mark David and Douglas G. Gibler. <a href="../materials/Peaceful Neighbo
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DNH9XV">Replication Materials</a>
 
 Nieman, Mark David, Carla Martinez Machain, Olga V. Chyzh, and Sam R. Bell. 2021. <a href="../materials/International Game of Risk.pdf" target=_blank>An International Game of Risk: Troop Placement and Major Power Competition</a>. *The Journal of Politics*. 83(4): 1307--1321.
-- <a href="../materials/International Game of Risk - appendix.pdf" target=_blank>Online Appendix</a> 
-- <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5AFKDK">Replication Materials</a>
 
 Nieman, Mark David and Cameron G. Thies. 2019. <a href="../materials/Nieman&Thies-FDI.pdf" target=_blank>Property Rights Regimes, Technological Innovation, and Foreign Direct Investment</a>. *Political Science and Research Methods* 7(3): 451--469. 
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/P5SZTR">Replication Materials</a>
