@@ -51,5 +51,5 @@ My research has been supported by the *National Science Foundation*, and been pu
 
 I teach courses on international political order, international political economy, contemporary challenges in IR, and theory development and research design. These courses focus on understanding the theoretical mechanisms driving domestic and international actors' behavior and evaluating these using empirical evidence. Current and past syllabi can be found on my teaching page. 
 
-I earned my Ph.D. from the University of Iowa, and my B.A. and M.A. from Iowa State University. I previously held positions at Iowa State University, the University of Alabama, the University of Missouri, and was the James A Socknat Fellow at The World Bank. My CV is available <a href="../materials/Nieman_CV_20230329.pdf" target=_blank>here</a> and on my the CV page.
+I earned my Ph.D. from the University of Iowa, and my B.A. and M.A. from Iowa State University. I previously held positions at Iowa State University, the University of Alabama, the University of Missouri, and was a James A Socknat Fellow at The World Bank. My CV is available <a href="../materials/Nieman_CV_20230329.pdf" target=_blank>here</a> and on my the CV page.
 
