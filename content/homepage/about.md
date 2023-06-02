@@ -49,5 +49,5 @@ My academic interests are in international relations and political methodology. 
 
 My research has been supported by the *National Science Foundation*, and been published in *The Journal of Politics*, *Political Analysis*, *Journal of Peace Research*, and *Statistica Sinica*, among others. My first book (co-authored with Cameron Thies), *Rising Powers and Foreign Policy Revisionism: Understanding BRICS Identity and Behavior through Time*, is available from [University of Michigan Press](https://www.press.umich.edu/9449686/rising_powers_and_foreign_policy_revisionism).  
 
-I earned my Ph.D. from the University of Iowa, and my B.A. and M.A. from Iowa State University. I previously held positions at Iowa State University, the University of Alabama, the University of Missouri, and was the James A Socknat Fellow at The World Bank. My CV is available <a href="../materials/Nieman_CV_20230329.pdf" target=_blank>here</a>.
+I earned my Ph.D. from the University of Iowa, and my B.A. and M.A. from Iowa State University. I previously held positions at Iowa State University, the University of Alabama, the University of Missouri, and was the James A Socknat Fellow at The World Bank. My CV is available <a href="../materials/Nieman_CV_20230329.pdf" target=_blank>here</a> and at the CV tab above.
 

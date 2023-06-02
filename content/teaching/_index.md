@@ -13,7 +13,7 @@ toc: true
 
 ## Teaching
 
-I teach courses about international relations---typically related to conflict processes, security policy, international political economy, or contemporary challenges--as well as courses on research design and methods. As an instructor, I place high emphasis on training students not just in substantive material, but also in effective methods to conduct and present research. 
+I teach courses about international relations---typically related to conflict processes, security policy, international political economy, or contemporary challenges---as well as courses on research design and methods. As an instructor, I place high emphasis on training students not just in substantive material, but also in effective methods to conduct and present research. 
 
 ## Syllabi Spring 2023
 
