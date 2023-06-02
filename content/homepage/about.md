@@ -43,6 +43,17 @@ widget:
     attachment: 
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q046HR4S89"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q046HR4S89');
+</script>
+
+
 ## Welcome!
 
 My academic interests are in international relations and political methodology. My research focuses on interactions between major powers and protégé states, and the foreign policy implications of these interactions, specifically as they pertain to major power competition/cooperation, conflict processes among protégé states, state development, and political economy. My research in political methodology develops techniques and best practices for working with censored and non-random missing data, as well as modeling temporal dynamics. 

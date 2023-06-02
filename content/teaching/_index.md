@@ -11,6 +11,17 @@ title:
 toc: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q046HR4S89"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q046HR4S89');
+</script>
+
+
 ## Teaching
 
 I teach courses about international relations---typically related to conflict processes, security policy, international political economy, or contemporary challenges---as well as courses on research design and methods. As an instructor, I place high emphasis on training students not just in substantive material, but also in effective methods to conduct and present research. 

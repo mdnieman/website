@@ -11,6 +11,17 @@ title:
 toc: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q046HR4S89"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q046HR4S89');
+</script>
+
+
 Below you can find my current working papers. Many of these have been presented at conferences. As they are works-in-progress, all comments are welcome, so please feel free to reach out.
 
 ## Working Papers
