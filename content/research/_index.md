@@ -38,7 +38,7 @@ Nieman, Mark David and Maxwell B. Allamong. <a href="../materials/Schools of Tho
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MOAKFJ">Replication Materials</a> 
 
 Nieman, Mark David and Douglas G. Gibler. <a href="../materials/Peaceful Neighborhoods.pdf" target=_blank>Peaceful Neighborhoods and Democratic Differences</a>. *The Journal of Politics*. 85(1): 92--106.
-- <a href="https://politicalviolenceataglance.org/2023/03/21/why-democracies-arent-more-reliable-alliance-partners/>*Political Violence at a Glance Guest Post*</a>
+- <a href="https://politicalviolenceataglance.org/2023/03/21/why-democracies-arent-more-reliable-alliance-partners/"> *Political Violence at a Glance Guest Post*</a>
 - <a href="../materials/Peaceful Neighborhoods - Appendix.pdf" target=_blank>Online Appendix</a>
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DNH9XV">Replication Materials</a>
 
@@ -66,7 +66,7 @@ Thies, Cameron G., Olga Chyzh and Mark David Nieman. 2016. <a href="../materials
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VPTTOB">Replication Materials</a>
 
 Nieman, Mark David. 2015. <a href="../materials/Nieman_PA_2015.pdf" target=_blank>Statistical Analysis of Strategic Interaction with Unobservable Player Actions: Introducing a Strategic Probit with Partial Observability</a>. *Political Analysis* 23(3): 429--448. 
-- <a href="https://www.methods-colloquium.com/single-post/2015/03/14/Mark-Nieman-Statistical-Analysis-of-Strategic-Interaction-with-Unobserved-Player-Actions"> Watch International Methods Colloquium Webinar</a>
+- <a href="https://www.methods-colloquium.com/single-post/2015/03/14/Mark-Nieman-Statistical-Analysis-of-Strategic-Interaction-with-Unobserved-Player-Actions"> Watch *International Methods Colloquium* Webinar</a>
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28662">Replication Materials</a>
 
 Nieman, Mark David and Jonathan J. Ring. 2015. <a href="../materials/eps201560a.pdf" target=_blank>The Construction of Human Rights: Accounting for Systematic Bias in Common Human Rights Measures</a>. *European Political Science* 14(4): 473--495. 
