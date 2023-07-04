@@ -38,7 +38,7 @@ Nieman, Mark David and Maxwell B. Allamong. <a href="../materials/Schools of Tho
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MOAKFJ">Replication Materials</a> 
 
 Nieman, Mark David and Douglas G. Gibler. <a href="../materials/Peaceful Neighborhoods.pdf" target=_blank>Peaceful Neighborhoods and Democratic Differences</a>. *The Journal of Politics*. 85(1): 92--106.
-- <a href="https://politicalviolenceataglance.org/2023/03/21/why-democracies-arent-more-reliable-alliance-partners/"> *Political Violence at a Glance Guest Post*</a>
+- <a href="https://politicalviolenceataglance.org/2023/03/21/why-democracies-arent-more-reliable-alliance-partners/"> *Political Violence at a Glance* Guest Post</a>
 - <a href="../materials/Peaceful Neighborhoods - Appendix.pdf" target=_blank>Online Appendix</a>
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DNH9XV">Replication Materials</a>
 
