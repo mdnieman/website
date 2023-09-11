@@ -26,7 +26,7 @@ toc: true
 
 I teach courses about international relations---typically related to conflict processes, security policy, international political economy, or contemporary challenges---as well as courses on research design and methods. As an instructor, I place high emphasis on training students not just in substantive material, but also in effective methods to conduct and present research. 
 
-## Syllabi Spring 2023
+## Syllabi Fall 2023
 
 <a href="../materials/TRN410_syllabus.pdf" target=_blank>Researching Critical Cases in International Relations</a>
 
