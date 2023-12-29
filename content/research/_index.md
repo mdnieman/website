@@ -53,7 +53,7 @@ Nieman, Mark David and Cameron G. Thies. 2019. <a href="../materials/Nieman&Thie
 McManus, Roseanne W. and Mark David Nieman. 2019. <a href="../materials/McManus_Nieman_JPR_2019.pdf" target=_blank>Identifying the Level of Major Power Support Signaled for Protégés: A Latent Measure Approach</a>. *Journal of Peace Research* 56(3): 364--378.
 - <a href="https://www.prio.org/JPR/Datasets/">Replication Materials</a> 
 
-Nieman, Mark David. 2018. <a href="../materials/Nieman_SS_2018.pdf" target=_blank>Strategic Binary Choice Models with Partial Observability</a>. *Statistical Sinica* 28(4): 2089--2105.
+Nieman, Mark David. 2018. <a href="../materials/Nieman_ss2018.pdf" target=_blank>Strategic Binary Choice Models with Partial Observability</a>. *Statistical Sinica* 28(4): 2089--2105.
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JANZHM">Replication Materials</a>
 
 Nieman, Mark David. 2016. <a href="../materials/Nieman_JPR_2016.pdf" target=_blank>The Return on Social Bonds: Social Contracts and International Conflict</a>. *Journal of Peace Research* 53(5): 665--679. 
