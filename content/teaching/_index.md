@@ -30,7 +30,7 @@ I teach courses about international relations---typically related to conflict pr
 
 <a href="../materials/TRN350_Syllabus.pdf" target=_blank>Scarcity, Sustainability, and the Future of International Relations</a>
 
-<a href="../materials/POL2507_Syllabus.pdf" target=_blank>Multiple Regression Analysis for Political Scientists</a>
+<a href="../materials/POL2507 Syllabus.pdf" target=_blank>Multiple Regression Analysis for Political Scientists</a>
 
 
 
