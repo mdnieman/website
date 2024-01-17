@@ -26,17 +26,19 @@ toc: true
 
 I teach courses about international relations---typically related to conflict processes, security policy, international political economy, or contemporary challenges---as well as courses on research design and methods. As an instructor, I place high emphasis on training students not just in substantive material, but also in effective methods to conduct and present research. 
 
-## Syllabi Fall 2023
+## Syllabi Winter 2024
 
-<a href="../materials/TRN410_syllabus.pdf" target=_blank>Researching Critical Cases in International Relations</a>
+<a href="../materials/TRN350_Syllabus.pdf" target=_blank>Scarcity, Sustainability, and the Future of International Relations</a>
+
+<a href="../materials/POL2507_Syllabus.pdf" target=_blank>Multiple Regression Analysis for Political Scientists</a>
 
 
 
 ## Past Syllabi
 
-<a href="../materials/POL362_Syllabus.pdf" target=_blank>Global Political Economy: Policy and Analysis</a>
+<a href="../materials/TRN410_syllabus.pdf" target=_blank>Researching Critical Cases in International Relations</a>
 
-<a href="../materials/TRN350_Syllabus.pdf" target=_blank>Scarcity, Sustainability, and the Future of International Relations</a>
+<a href="../materials/POL362_Syllabus.pdf" target=_blank>Global Political Economy: Policy and Analysis</a>
 
 <a href="../materials/POL477_Syllabus.pdf" target=_blank>Political Economy of World Order</a>
 
