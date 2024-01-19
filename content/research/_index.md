@@ -36,6 +36,7 @@ Thies, Cameron G. and Mark David Nieman. 2017. *<a href="https://www.press.umich
 
 Nieman, Mark David and Maxwell B. Allamong. <a href="../materials/Nieman_Allamong - Schools of Thought.pdf" target=_blank>Schools of Thought: Leader Education and Policy Outcomes</a>. *The Journal of Politics*. 85(4): 1529--1547.
 - <a href="https://jop.blogs.uni-hamburg.de/can-you-teach-democracy-the-soft-power-of-foreign-exchange-programs/"> *JOP Blogpost* </a>
+- <a href="../materials/Nieman_Allamong - Schools of Thought - Appendix.pdf" target=_blank>Online Appendix</a>
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MOAKFJ">Replication Materials</a> 
 
 Nieman, Mark David and Douglas G. Gibler. <a href="../materials/Peaceful Neighborhoods.pdf" target=_blank>Peaceful Neighborhoods and Democratic Differences</a>. *The Journal of Politics*. 85(1): 92--106.
