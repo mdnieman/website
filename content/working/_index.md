@@ -26,7 +26,7 @@ Below you can find my current working papers. Many of these have been presented 
 
 ## Working Papers
 
-<a href="../materials/Coercion and Cooperation_20240301.pdf" target=_blank>Coercion and Cooperation: A Balancing Act
+<a href="../materials/Coercion and Cooperation.pdf" target=_blank>Coercion and Cooperation: A Balancing Act
 Between Established and Rising Powers</a> (with Isaac Barrash)
 
 <a href="../materials/CNW-DougWhistlePolitics.pdf" target=_blank>The Effects of Dog-Whistle Politics on Political Violence</a> (with Olga Chyzh and Clay Webb)
