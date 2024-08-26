@@ -26,14 +26,15 @@ Below you can find my current working papers. Many of these have been presented 
 
 ## Working Papers
 
+
+<a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long Run Confidence: Estimating Confidence Intervals when using Long Run Multipliers</a> (with Dave Peterson)
+
 <a href="../materials/Coercion and Cooperation.pdf" target=_blank>Coercion and Cooperation: A Balancing Act
 Between Established and Rising Powers</a> (with Isaac Barrash)
 
 <a href="../materials/CNW-DougWhistlePolitics.pdf" target=_blank>The Effects of Dog-Whistle Politics on Political Violence</a> (with Olga Chyzh and Clay Webb)
 
 <a href="../materials/Climate Change and Electoral Outcomes.pdf" target=_blank>A Watershed Moment: Climate Change and Election Outcomes</a>
-
-<a href="../materials/NP-MPSA.pdf" target=_blank>Long Run Confidence: Estimating Confidence Intervals when using Long Run Multipliers</a> (with Dave Peterson)
 
 <a href="../materials/Structural_Selection.pdf" target=_blank>Modeling Structural Selection in Disaggregated Event Data</a> (with Olga Chyzh and Doug Gibler)
 
