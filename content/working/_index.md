@@ -30,7 +30,7 @@ Below you can find my current working papers. Many of these have been presented 
 <a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long Run Confidence: Estimating Confidence Intervals when using Long Run Multipliers</a> (with Dave Peterson)
 
 <a href="../materials/Coercion and Cooperation.pdf" target=_blank>Coercion and Cooperation: A Balancing Act
-Between Established and Rising Powers</a> (with Isaac Barrash)
+Between Established and Revisionist Powers</a> (with Isaac Barrash)
 
 <a href="../materials/CNW-DougWhistlePolitics.pdf" target=_blank>The Effects of Dog-Whistle Politics on Political Violence</a> (with Olga Chyzh and Clay Webb)
 
