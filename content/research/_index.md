@@ -53,7 +53,6 @@ McManus, Roseanne W. and Mark David Nieman. 2019. <a href="../materials/McManus_
 - <a href="../materials/Major Protege Dataset v1.1.csv" target=_blank>Major-Protege Support Signaled Dataset v1.1 in csv format</a>
 - <a href="../materials/Major Protege Dataset v1.1..dta" target=_blank>Major-Protege Support Signaled Dataset v1.1 in dta format</a>
 
-
 Nieman, Mark David and Cameron G. Thies. 2019. <a href="../materials/Nieman&Thies-FDI.pdf" target=_blank>Property Rights Regimes, Technological Innovation, and Foreign Direct Investment</a>. *Political Science and Research Methods* 7(3): 451--469. 
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/P5SZTR">Replication Materials</a>
 
