@@ -27,7 +27,7 @@ Below you can find my current working papers. Many of these have been presented 
 ## Working Papers
 
 
-<a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long-Run Confidence: Estimating Confidence Intervals when using Long-Run Multipliers</a> (with Dave Peterson)
+<a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long-Run Confidence: Estimating Uncertainty when using Long-Run Multipliers</a> (with Dave Peterson)
 
 <a href="../materials/Coercion and Cooperation.pdf" target=_blank>Coercion and Cooperation: A Balancing Act
 Between Established and Revisionist Powers</a> (with Isaac Barrash)
