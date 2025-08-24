@@ -34,7 +34,7 @@ Thies, Cameron G. and Mark David Nieman. 2017. *<a href="https://www.press.umich
 
 ## Articles
 
-Nieman, Mark David and David A.M. Peterson. Forthcoming. - <a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long-Run Confidence: Estimating Uncertainty when using Long-Run Multipliers</a>. *American Journal of Political Science*.
+Nieman, Mark David and David A.M. Peterson. Forthcoming. <a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long-Run Confidence: Estimating Uncertainty when using Long-Run Multipliers</a>. *American Journal of Political Science*.
 
 Nieman, Mark David and Maxwell B. Allamong. 2023. <a href="../materials/Nieman_Allamong - Schools of Thought.pdf" target=_blank>Schools of Thought: Leader Education and Policy Outcomes</a>. *Journal of Politics*. 85(4): 1529--1547.
 - <a href="https://jop.blogs.uni-hamburg.de/can-you-teach-democracy-the-soft-power-of-foreign-exchange-programs/"> *JOP Blogpost* </a>
