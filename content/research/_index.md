@@ -34,17 +34,19 @@ Thies, Cameron G. and Mark David Nieman. 2017. *<a href="https://www.press.umich
 
 ## Articles
 
-Nieman, Mark David and Maxwell B. Allamong. 2023. <a href="../materials/Nieman_Allamong - Schools of Thought.pdf" target=_blank>Schools of Thought: Leader Education and Policy Outcomes</a>. *The Journal of Politics*. 85(4): 1529--1547.
+Nieman, Mark David and David A.M. Peterson. Forthcoming. - <a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long-Run Confidence: Estimating Uncertainty when using Long-Run Multipliers</a>. *American Journal of Political Science*.
+
+Nieman, Mark David and Maxwell B. Allamong. 2023. <a href="../materials/Nieman_Allamong - Schools of Thought.pdf" target=_blank>Schools of Thought: Leader Education and Policy Outcomes</a>. *Journal of Politics*. 85(4): 1529--1547.
 - <a href="https://jop.blogs.uni-hamburg.de/can-you-teach-democracy-the-soft-power-of-foreign-exchange-programs/"> *JOP Blogpost* </a>
 - <a href="../materials/Nieman_Allamong - Schools of Thought - Appendix.pdf" target=_blank>Online Appendix</a>
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MOAKFJ">Replication Materials</a> 
 
-Nieman, Mark David and Douglas G. Gibler. 2023. <a href="../materials/Peaceful Neighborhoods.pdf" target=_blank>Peaceful Neighborhoods and Democratic Differences</a>. *The Journal of Politics*. 85(1): 92--106.
+Nieman, Mark David and Douglas G. Gibler. 2023. <a href="../materials/Peaceful Neighborhoods.pdf" target=_blank>Peaceful Neighborhoods and Democratic Differences</a>. *Journal of Politics*. 85(1): 92--106.
 - <a href="https://politicalviolenceataglance.org/2023/03/21/why-democracies-arent-more-reliable-alliance-partners/"> *Political Violence at a Glance* Guest Post</a>
 - <a href="../materials/Peaceful Neighborhoods - Appendix.pdf" target=_blank>Online Appendix</a>
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DNH9XV">Replication Materials</a>
 
-Nieman, Mark David, Carla Martinez Machain, Olga V. Chyzh, and Sam R. Bell. 2021. <a href="../materials/International Game of Risk.pdf" target=_blank>An International Game of Risk: Troop Placement and Major Power Competition</a>. *The Journal of Politics*. 83(4): 1307--1321.
+Nieman, Mark David, Carla Martinez Machain, Olga V. Chyzh, and Sam R. Bell. 2021. <a href="../materials/International Game of Risk.pdf" target=_blank>An International Game of Risk: Troop Placement and Major Power Competition</a>. *Journal of Politics*. 83(4): 1307--1321.
 - <a href="../materials/International Game of Risk - Appendix.pdf" target=_blank>Online Appendix</a>
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5AFKDK">Replication Materials</a>
 
