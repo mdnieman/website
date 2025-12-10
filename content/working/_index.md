@@ -26,7 +26,7 @@ Below you can find my current working papers. Many of these have been presented 
 
 ## Working Papers
 
-<a href="../materials/Nieman - Surrendering Influence - APSA.pdf" target=_blank>Surrendering Influence: The Effects of Major Power Withdrawal</a>
+<a href="../materials/Nieman - Surrendering Influence.pdf" target=_blank>Surrendering Influence: The Effects of Major Power Withdrawal</a>
 
 <a href="../materials/Coercion and Cooperation.pdf" target=_blank>Coercion and Cooperation: A Balancing Act
 Between Established and Revisionist Powers</a> (with Isaac Barrash)
