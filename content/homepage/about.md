@@ -6,7 +6,7 @@ avatar: images/Mark_website.jpg
 bio: I hold a joint appointment with the [Department of Political Science](https://politics.utoronto.ca/) and [Trinity College](https://www.trinity.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/). I am also affiliated with the [Data Sciences Institute](https://datasciences.utoronto.ca/).
 organization:
   name: University of Toronto
-  url: https://example.com/
+  url: https://www.politics.utoronto.ca/people/directories/all-faculty/mark-nieman
 social:
   - icon: envelope
     iconPack: fas
