@@ -34,7 +34,7 @@ Thies, Cameron G. and Mark David Nieman. 2017. *<a href="https://www.press.umich
 
 ## Articles
 
-Nieman, Mark David and David A.M. Peterson. 2026. <a href="../materials/Nieman & Peterson - Long-run Confidence.pdf" target=_blank>Long-run Confidence: Estimating Uncertainty when using Long-run Multipliers</a>. *American Journal of Political Science*.
+Nieman, Mark David and David A.M. Peterson. 2026. <a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long-run Confidence: Estimating Uncertainty when using Long-run Multipliers</a>. *American Journal of Political Science*.
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XUNL9H">Replication Materials</a> 
 
 
