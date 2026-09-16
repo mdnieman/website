@@ -56,7 +56,7 @@ widget:
 
 ## Welcome!
 
-My academic interests are in international relations and political methodology. My research focuses on My research focuses on the political economy of global order, specifically how international political structures shape the behavior of states and their leaders. This includes major power competition/cooperation, conflict processes, state development, and economic policy. My research in political methodology develops techniques and best practices for working with censored and non-random missing data, as well as modeling temporal dynamics.
+My academic interests are in international relations and political methodology. My research focuses on the political economy of global order, specifically how international political structures shape the behavior of states and their leaders. This includes major power competition/cooperation, conflict processes, state development, and economic policy. My research in political methodology develops techniques and best practices for working with censored and non-random missing data, as well as modeling temporal dynamics.
 
 My research has been supported by the *National Science Foundation*, and has been published in the *American Journal of Political Science*, *Journal of Politics*, *International Organization*, and *Political Analysis*, among others. My first book (co-authored with Cameron Thies), *Rising Powers and Foreign Policy Revisionism: Understanding BRICS Identity and Behavior through Time*, is available from [University of Michigan Press](https://www.press.umich.edu/9449686/rising_powers_and_foreign_policy_revisionism). My published work are available on my research page and current projects on the working papers page.
 
