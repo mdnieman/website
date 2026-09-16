@@ -22,9 +22,9 @@ toc: true
 </script>
 
 
-Below you can find information about my NSF grant project, book, and peer-reviewed articles.
+Below you can find information about my NSF grant, book, and peer-reviewed articles.
 
-## *National Science Foundation* Grant Project
+## *National Science Foundation* Grant
 
 Modeling Sample Selection for Multi-Level Data Structures (NSF Award <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1728395&HistoricalAwards=false">1728395</a>/<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1729244&HistoricalAwards=false">1729244</a>), with Olga Chyzh and Doug Gibler.
 
@@ -33,6 +33,8 @@ Modeling Sample Selection for Multi-Level Data Structures (NSF Award <a href="ht
 Thies, Cameron G. and Mark David Nieman. 2017. *<a href="https://www.press.umich.edu/9449686/rising_powers_and_foreign_policy_revisionism">Rising Powers and Foreign Policy Revisionism: Understanding BRICS Identity and Behavior Through Time</a>*. Ann Arbor: University of Michigan Press.
 
 ## Articles
+
+Nieman, Mark David. 2026. <a href="../materials/Nieman - Surrendering Influence.pdf" target=_blank>Surrendering Influence: The Effects of Major Power Withdrawal</a>. *International Organization*. Forthcoming.
 
 Nieman, Mark David and David A.M. Peterson. 2026. <a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long-run Confidence: Estimating Uncertainty when using Long-run Multipliers</a>. *American Journal of Political Science*.
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XUNL9H">Replication Materials</a> 

@@ -30,6 +30,7 @@ I teach courses about international relations---typically related to internation
 
 <a href="../materials/POL361_syllabus_online.pdf" target=_blank>Global Political Economy</a>
 
+
 ## Past Syllabi
 
 <a href="../materials/TRN350_Syllabus_online.pdf" target=_blank>Scarcity, Sustainability, and the Future of International Relations</a>
