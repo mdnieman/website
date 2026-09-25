@@ -35,10 +35,10 @@ Thies, Cameron G. and Mark David Nieman. 2017. *<a href="https://www.press.umich
 ## Articles
 
 Nieman, Mark David. 2026. <a href="../materials/Nieman - Surrendering Influence.pdf" target=_blank>Surrendering Influence: The Effects of Major Power Withdrawal</a>. *International Organization*. Forthcoming.
+- <a href"https://doi.org/10.7910/DVN/7NKVIN">Replication Materials</a>
 
 Nieman, Mark David and David A.M. Peterson. 2026. <a href="../materials/Nieman & Peterson - Long Run Confidence.pdf" target=_blank>Long-run Confidence: Estimating Uncertainty when using Long-run Multipliers</a>. *American Journal of Political Science*.
 - <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XUNL9H">Replication Materials</a> 
-
 
 Nieman, Mark David and Maxwell B. Allamong. 2023. <a href="../materials/Nieman_Allamong - Schools of Thought.pdf" target=_blank>Schools of Thought: Leader Education and Policy Outcomes</a>. *Journal of Politics*. 85(4): 1529--1547.
 - <a href="https://jop.blogs.uni-hamburg.de/can-you-teach-democracy-the-soft-power-of-foreign-exchange-programs/"> *JOP Blogpost* </a>
